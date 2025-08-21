@@ -1,4 +1,4 @@
-# myocarditis-mfm: A Multimodal Foundation Model for Myocarditis
+# myocarditis-mfm: A Multimodal Foundation Model for Myocarditis 
 
 
 
